@@ -15,7 +15,7 @@ import java.time.Duration;
 public class LoginTests {
 
     public WebDriver Driver;
-    public final String Email = "laslo.marian@gmail.com";
+    public final String Email = "nafornita.ioana@gmail.com";
     public final String Password = "nimic";
 
     @Test
