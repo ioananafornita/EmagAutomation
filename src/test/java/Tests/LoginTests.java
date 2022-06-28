@@ -16,7 +16,7 @@ public class LoginTests {
 
     public WebDriver Driver;
     public final String Email = "laslo.marian@gmail.com";
-    public final String Password = "laslo10";
+    public final String Password = "nimic";
 
     @Test
     public void loginMethod()
